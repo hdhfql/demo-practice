@@ -1,0 +1,77 @@
+#mine {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.btn {
+	margin: 40px 0 10px 0;
+	padding: 8px 20px;
+	text-align: center;
+	background: rgb(2,162,178);
+	color: rgb(238, 250, 255);
+	border: none;
+	border-radius: 4px;
+}
+.btnActive {
+	background-color: rgb(0,168,255);
+}
+
+table{
+	margin: 0 auto;
+	text-align: center;
+	border-spacing: 1px;
+	background-color: rgb(194, 194, 194);
+}
+td{
+	padding: 0;
+	height: 20px;
+	width: 20px;
+	border: 1px solid;
+	border-color: rgb(245,245,245) rgb(112, 112, 112)rgb(162,160,161) rgb(245,245,245);
+	cursor: context-menu;
+}
+.mineActive {
+	background: url("./image/bomb.jpg") no-repeat center;
+	background-size: cover;
+}
+.flag {
+	background: url("./image/falg.jpg") no-repeat center;
+	background-size: cover;
+}
+.numActive {
+	text-align: center;
+	border: none;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 20px;
+	background: #d9d9d9;
+}
+.one {
+	color: blue;
+}
+.two {
+	color: green;
+}
+.three {
+	color: red;
+}
+.four {
+	color: rgb(156, 0, 0);
+}
+.five {
+	color: rgb(195, 0, 202);
+}
+.six {
+	color: rgb(0, 187, 187);
+}
+.seven {
+	color: rgb(251, 255, 0);
+}
+.eight {
+	color: rgb(255, 153, 0);
+}
+
+.restMineNum {
+	text-align: center;
+	font-size: 20px;
+}
