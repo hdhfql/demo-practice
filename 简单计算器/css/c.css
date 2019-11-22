@@ -1,0 +1,101 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+html,body{
+    height:100%;
+    overflow: hidden;
+}
+.mybox{
+    height:99%;
+    width:99%;
+    overflow: hidden;
+    margin:4px auto;
+    border:1px solid gray;
+    border-radius: 10px;
+}
+.myhead{
+    height:10%;
+    margin:0 1px;
+    line-height: 65px;
+    text-align: center;
+    font-size:30px;
+    border-radius:10px;
+    border-bottom:2px solid gray;
+    border-top:1px solid gray;
+    background-color: rgb(170, 243, 170);
+}
+.myfoot{
+    height:10%;
+    margin:0 1px;
+    line-height: 65px;
+    font-size:30px;
+    text-align: center;
+    border-radius:16px;
+    border-top:2px solid gray;
+    border-bottom:1px solid gray;
+    background-color: lightgreen;
+}
+#mycontainer{
+    height:80%;
+    margin:0 2px;
+    background: lightgoldenrodyellow;
+}
+.mytext{
+    height:30%;
+    border:1px solid rgb(172, 170, 170);
+    border-radius: 14px;
+    text-align: center;
+    line-height: 30%;
+}
+#myinput{
+    position: relative;
+    top:19%;
+    height:60%;
+    width:90%;
+    border: 2px solid skyblue;
+    border-radius: 10px;
+    font-size: 40px;
+}
+.mybuttons{
+    height:70%;
+    background-color: lightgoldenrodyellow;
+    border:1px solid gray;
+    border-radius: 16px;
+
+}
+.btn-line{
+    position: relative;
+    top:4px;
+    bottom:4px;
+    height:20%;
+}
+.q{
+    clear:both;
+    float:left;
+}
+button{
+    float:left;
+    width:23%;
+    height:90%;
+    margin:0 1%;
+    line-height:90%;
+    border-radius: 30px;
+}
+.b{
+    border:1px solid rgb(0, 0, 0);
+    font-size: 40px;
+}
+.b:hover{
+    color:black;
+}
+.equal{
+    width:48%;
+}
+.mui-icon-refresh{
+    font-size:40px;
+}
+.mui-icon-back{
+    font-size:40px;
+}
