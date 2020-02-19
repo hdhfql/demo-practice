@@ -11,6 +11,6 @@ https://hdhfql.github.io/demo-practice/太极动画
 
 3、3d图片查看
 
-https://hdhfql.github.io/demo-practice/3D图片查看器
+https://hdhfql.github.io/demo-practice/3d图片查看器
 
 ...
